@@ -1775,9 +1775,9 @@ Please refer to the section "Setting up an Interception Proxy" in the [Android](
 
 A script to intercept and modify non-HTTP protocols through Burp and others with support for SSL and STARTTLS interception - <https://github.com/jrmdev/mitm_relay>
 
-### OWASP ZAP
+### ZAP
 
-[OWASP ZAP](https://owasp.org/www-project-zap/ "OWASP ZAP") (Zed Attack Proxy) is a free security tool which helps to automatically find security vulnerabilities in web applications and web services - <https://github.com/zaproxy/zaproxy>
+[ZAP](https://www.zaproxy.org/ "ZAP") (Zed Attack Proxy) is a free security tool which helps to automatically find security vulnerabilities in web applications and web services - <https://github.com/zaproxy/zaproxy>
 
 ### tcpdump
 
